@@ -11,11 +11,15 @@ Verilerin doğru bir şekilde görüntülenmesi için dosyaları  C:\Program Fil
 
 **************************************************************************************************************************************
 Screenshots
+Ana Ekran ![AnaEkran](https://github.com/Kaplanv1/IngilizceKelimeEzberleme/blob/main/ScreenShots/AnaEkran.png)
 
-Kullanıcı Giriş Ekranı ![KullanıcıGiriş](https://user-images.githubusercontent.com/43048105/58023493-9756f200-7b18-11e9-86a8-47e5354f4a86.jpg)
+Çalışma Alanı ![CalismaAlani](https://github.com/Kaplanv1/IngilizceKelimeEzberleme/blob/main/ScreenShots/PratikEkran.png)
 
-Ana Ekran ![AnaEkran](https://user-images.githubusercontent.com/43048105/58023493-9756f200-7b18-11e9-86a8-47e5354f4a86.jpg)
+Kelime Deposu ![KelimeDeposu](https://github.com/Kaplanv1/IngilizceKelimeEzberleme/blob/main/ScreenShots/KelimeEkrani.png)
 
-Çalışma Alanı ![CalismaAlani](https://user-images.githubusercontent.com/43048105/58023537-b190d000-7b18-11e9-9e0b-7476bb01c244.jpg)
+Kullanıcı Giriş Ekranı ![KullanıcıGiriş](https://github.com/Kaplanv1/IngilizceKelimeEzberleme/blob/main/ScreenShots/KullaniciGirisEkrani.png)
 
-Kelime Deposu ![KelimeDeposu](https://user-images.githubusercontent.com/43048105/58023567-c2414600-7b18-11e9-99ea-c5d474b2be36.jpg)
+Kullanıcı Kayıt Ekranı ![KullanıcıGiriş](https://github.com/Kaplanv1/IngilizceKelimeEzberleme/blob/main/ScreenShots/KullaniciKayitEkrani.png)
+
+
+
