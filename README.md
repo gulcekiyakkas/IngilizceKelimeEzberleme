@@ -1,11 +1,11 @@
 # İngilizceKelimeEzberleme
-İngilizce - Türkçe Kelime Ezberleme Uygulaması
+İngilizce - Türkçe Kelime Ezberleme Uygulaması Kelime Uygulaması
 
-Bu uygulama ile veritabanına kelime ekleyebilir, veritabanındaki kelimeleri görüntüleyebilir, kelime ezberlemek için çalışabilirsiniz.
+Bu uygulama ile veritabanına kelime ekleyebilir, veritabanındaki kelimeleri görüntüleyebilir, kelime ezberlemek için çalışabilirsiniz. 
 
 **************************************************************************************************************************************
 Bu uygulama C# ve SQL SERVER kullanılarak hazırlanmıştır.
-Bu uygulamanın çalışması için bilgisayarınızda SQL Server ve .NET Framework 4.5 kurulu olması lazım. 
+Bu uygulamanın çalışması için bilgisayarınızda SQL Server ve .NET Framework 4.5 kurulu olması lazım.
 Veritabanı dosyası(.mdf ve .ldf) program ile aynı dizinde bulunuyor.
 Verilerin doğru bir şekilde görüntülenmesi için dosyaları  C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA dizinine atmalısınız.
 
