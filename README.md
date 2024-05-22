@@ -1,5 +1,5 @@
 # İngilizceKelimeEzberleme
-İngilizce - Türkçe Kelime Ezberleme Uygulaması Kelime Uygulaması
+İngilizce - Türkçe Kelime Ezberleme Uygulaması 
 
 Bu uygulama ile veritabanına kelime ekleyebilir, veritabanındaki kelimeleri görüntüleyebilir, kelime ezberlemek için çalışabilirsiniz. 
 
