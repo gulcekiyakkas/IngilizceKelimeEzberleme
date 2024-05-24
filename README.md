@@ -1,6 +1,11 @@
 # İngilizceKelimeEzberleme
 İngilizce - Türkçe Kelime Ezberleme Uygulaması 
 
+Çalışma Ekibi : 
+Emirhan Kaplan 222803017
+Gülce Kıyakkaş 222803054
+
+
 Bu uygulama ile veritabanına kelime ekleyebilir, veritabanındaki kelimeleri görüntüleyebilir, kelime ezberlemek için çalışabilirsiniz. 
 
 **************************************************************************************************************************************
